@@ -4,8 +4,6 @@
  <div> Kelas : SI23-C </div>     
 <div>  Prodi: SISTEM INFORMASI C </div>
 
-
-
 *praktikum 1 : Pengenalan Variabel `praktikum-c1.py`
 *praktikum 2 : Variabel, Tipe Data, Input dan Output `praktikum-c2.py`
 *praktikum 3 : operator `praktikum-c3.py`
@@ -19,3 +17,7 @@
 *praktikum 11 : fungsi rekrusif `praktikum-c11.py`
 *praktikum 12 : fungsi rekrusif `praktikum-c12.py`
 *praktikum 13 : fungsi rekrusif fibonacci `praktikum-c13.py`
+*tugas 9: Dictionery `tugas-c9.py`
+*tugas ganjilgenap : pengecekan kelipatan bilangan penjumlahan dan pengurangan waktu dan selisih dengan waktu `tugas-ganjil.py`
+*tugas genap ganjil : pengecekan kelipatan bilangan penjumlahan dan pengurangan waktu dan selisih dengan waktu `tugas-genap-ganjil.py`
+*UTS : Ulangan Tengah Semester `uts.py`
